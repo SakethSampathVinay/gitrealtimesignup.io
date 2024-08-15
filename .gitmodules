@@ -1,2 +1,3 @@
 [submodule "frontend/my-login-app"]
+	path = frontend/my-login-app
 	url = https://github.com/your-repo/your-submodule-repo.git
